@@ -1,0 +1,42 @@
+[submodule "haskell/hal"]
+	path = haskell/hal
+	url = git@github.com:maxime-dodin/hal.git
+[submodule "haskell/image-compressor"]
+	path = haskell/image-compressor
+	url = git@github.com:maxime-dodin/image-compressor.git
+[submodule "haskell/eval-expr"]
+	path = haskell/eval-expr
+	url = git@github.com:maxime-dodin/eval-expr.git
+[submodule "c/malloc"]
+	path = c/malloc
+	url = git@github.com:maxime-dodin/malloc.git
+[submodule "c/my-teams"]
+	path = c/my-teams
+	url = git@github.com:maxime-dodin/teams.git
+[submodule "cpp/rtype"]
+	path = cpp/rtype
+	url = git@github.com:maxime-dodin/rtype.git
+[submodule "cpp/indie-studio"]
+	path = cpp/indie-studio
+	url = git@github.com:maxime-dodin/indie-studio.git
+[submodule "cpp/plazza"]
+	path = cpp/plazza
+	url = git@github.com:maxime-dodin/plazza.git
+[submodule "assembly/mini-lib-c"]
+	path = assembly/mini-lib-c
+	url = git@github.com:maxime-dodin/mini-lib-c.git
+[submodule "dev-ops/popeye"]
+	path = dev-ops/popeye
+	url = git@github.com:maxime-dodin/popeye.git
+[submodule "dev-ops/my-marvin"]
+	path = dev-ops/my-marvin
+	url = git@github.com:maxime-dodin/my-marvin.git
+[submodule "dev-ops/bernstein"]
+	path = dev-ops/bernstein
+	url = git@github.com:maxime-dodin/bernstein.git
+[submodule "dev-ops/whanos"]
+	path = dev-ops/whanos
+	url = git@github.com:maxime-dodin/whanos.git
+[submodule "cpp/arcade"]
+	path = cpp/arcade
+	url = git@github.com:maxime-dodin/arcade.git
